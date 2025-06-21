@@ -1,18 +1,24 @@
-## Getting Started
+# AVALIAÇÃO DE CONHECIMENTO TÉCNICO - PROGRAMAÇÃO JAVA 2025
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém as soluções desenvolvidas como parte da avaliação técnica de programação Java referente ao processo seletivo de 2025.
+Para os Exercícios com classes, criei todas em arquivos separados pra melhorar a visualização e conseguir fazer tudo em apenas um projeto.
 
-## Folder Structure
+## 📌 Descrição
 
-The workspace contains two folders by default, where:
+O projeto tem como objetivo demonstrar conhecimentos em:
+- Programação orientada a objetos com Java
+- Manipulação de coleções e estruturas de dados
+- Uso de classes, métodos, construtores e sobrescrita
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 💻 Tecnologias utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java 17+
+- IDE: VS Code
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+  ## Respostas dos Exercícios
+  ![image](https://github.com/user-attachments/assets/02b80b7f-84e6-45d0-aac3-6a00ce95d620)
 
-## Dependency Management
+  ![image](https://github.com/user-attachments/assets/03c9515b-ba7e-40b8-93f6-9d33dda98dd3)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
